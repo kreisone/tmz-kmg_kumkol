@@ -10,6 +10,6 @@
 
 ## Composer
 
-Установить зависимости командой composer install
+Установить зависимости командой - composer install
 
 
